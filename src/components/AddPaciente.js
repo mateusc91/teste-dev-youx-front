@@ -103,7 +103,7 @@
           </div>
 
           <div className="form-group">
-            <label htmlFor="paciente">Data de Nascimento</label>
+            <label htmlFor="paciente">Data de Nascimento (dd/mm/yyyy)</label>
             <input
               type="text"
               className="form-control"
@@ -142,7 +142,7 @@
           </div>
 
           <div className="form-group">
-            <label htmlFor="paciente">Estado:</label>
+            <label htmlFor="paciente">Estado: (somente a sigla ex: BA)</label>
             <input
               type="text"
               className="form-control"
