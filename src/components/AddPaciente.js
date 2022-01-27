@@ -116,7 +116,7 @@
           </div>
 
           <div className="form-group">
-            <label htmlFor="paciente">Peso</label>
+            <label htmlFor="paciente">Peso (ex: 70.5)</label>
             <input
               type="text"
               className="form-control"
@@ -129,7 +129,7 @@
           </div>
 
           <div className="form-group">
-            <label htmlFor="paciente">Altura</label>
+            <label htmlFor="paciente">Altura (ex: 1.76)</label>
             <input
               type="text"
               className="form-control"
