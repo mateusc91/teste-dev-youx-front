@@ -77,7 +77,7 @@
           </div>
 
           <div className="form-group">
-            <label htmlFor="title">CPF</label>
+            <label htmlFor="title">CPF (11 digitos sem simbolos)</label>
             <input
               type="text"
               className="form-control"
