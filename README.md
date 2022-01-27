@@ -1,7 +1,7 @@
 # INSTRUÇÕES GERAIS
 
 - Esse projeto é a resolução de um teste para a empresa youx. Um cadastro de pacientes, com algumas validações requisitadas no escopo do teste.
--A API de backend se encontra nesse repositorio - https://github.com/mateusc91/teste-dev-youx
+- A API de backend se encontra nesse repositorio - https://github.com/mateusc91/teste-dev-youx
 
 ## Host
 - O projeto esta disponivel em - https://teste-youx-front-end.herokuapp.com/
